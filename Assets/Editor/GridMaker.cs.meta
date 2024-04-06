@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7795541bba8b2c8469e792546b899f1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pathCubePrefab: {fileID: 6280361940094094203, guid: 6c5824f91439186458f914cc0f7725ed, type: 3}
+  - highlightMaterial: {fileID: 2100000, guid: 02b818aa4b670e14b98ea1b4f7d577b6, type: 2}
+  - startMaterial: {fileID: 2100000, guid: dd230654bc1f996438e6a6be6fa9867c, type: 2}
+  - endMaterial: {fileID: 2100000, guid: 190f7e9a0fcc28d42a1fb76880aa5800, type: 2}
+  - pathMaterial: {fileID: 2100000, guid: 668a9be3bb5d5ce49bca6800f1e7f665, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
